@@ -1,6 +1,6 @@
-pip3 install matplotlib
+ matplotlib
 
-pip3 install meteostat
+ meteostat
 
-pip3 install geopy
+ geopy
 
